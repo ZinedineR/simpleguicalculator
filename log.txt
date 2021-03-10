@@ -1,0 +1,9 @@
+09:54:27: 0x61602e51: ZNK16wxAppConsoleBase11HandleEventEP12wxEvtHandlerMS0_FvR7wxEventES3_ in C:\Program Files (x86)\wxFormBuilder\wxbase30u_gcc_cl.dll
+09:54:27: 0x61603347: ZNK16wxAppConsoleBase16CallEventHandlerEP12wxEvtHandlerR14wxEventFunctorR7wxEvent in C:\Program Files (x86)\wxFormBuilder\wxbase30u_gcc_cl.dll
+09:54:27: 0x61782178: ZN12wxEvtHandler23ProcessEventIfMatchesIdERK21wxEventTableEntryBasePS_R7wxEvent in C:\Program Files (x86)\wxFormBuilder\wxbase30u_gcc_cl.dll
+09:54:27: 0x6178222a: ZN16wxEventHashTable11HandleEventER7wxEventP12wxEvtHandler in C:\Program Files (x86)\wxFormBuilder\wxbase30u_gcc_cl.dll
+09:54:27: 0x617c3bdb: get_output_format in C:\Program Files (x86)\wxFormBuilder\wxbase30u_gcc_cl.dll
+09:54:27: 0x6c9b8618: ZN8wxWindow16MSWHandleMessageEPljjl in C:\Program Files (x86)\wxFormBuilder\wxmsw30u_core_gcc_cl.dll
+09:54:27: 0x6c9b3bf0: ZN8wxWindow16MSWDefWindowProcEjjl in C:\Program Files (x86)\wxFormBuilder\wxmsw30u_core_gcc_cl.dll
+09:54:27: 0x6cc92f6b: get_output_format in C:\Program Files (x86)\wxFormBuilder\wxmsw30u_core_gcc_cl.dll
+09:54:27: A Fatal Error Occurred. Click Details for a backtrace.
